@@ -1,1 +1,0 @@
-Risk-reward - Performance vs downside volatility* Requires filtering for profitable companies, cap size, stock history etc.
