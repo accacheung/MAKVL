@@ -54,4 +54,3 @@ o	Sales/Revenue over time – Victoria
 o	Store Location/Region Sales vs Income – Lawrence
 o	Sales/Revenue over time segmented by county type – Victoria
 o	# crime incidents or rate over time segmented by county type – Maybo
-o	# crime incidents or rate over time segmented by county - Maybo
